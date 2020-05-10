@@ -1,0 +1,15 @@
+# Wineland-dataset
+# Short Summary
+
+## Model used
+I have used support vector machine for training dataset.
+SVMs(Support Vector Machines) avoid overfitting, they are very powerful. But, in text analysis, typically, the data is high dimensional and if some form of kernels had to work well, it has to be a linear kernel. Training a SVM with a linear kernel is faster than with another kernel.
+
+## Features extracted
+
+
+## Model accuracy in train dataset
+
+
+
+## Data visualization
